@@ -1,12 +1,10 @@
-### Hi Friends 👋 
+###  Hi Friends 👋
 ### This is My Space!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/chu-kin)
 
 ![Chu-Kin's github stats](https://github-readme-stats.vercel.app/api?username=Chu-Kin&theme=vue-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chu-Kin&layout=cover&theme=vue-dark)
-
-
 
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
