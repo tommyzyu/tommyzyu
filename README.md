@@ -3,8 +3,7 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/chu-kin)
 
-![Chu-Kin's github stats](https://github-readme-stats.vercel.app/api?username=Chu-Kin&theme=vue-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chu-Kin&layout=compact&theme=vue-dark)
+![Chu-Kin's github stats](https://github-readme-stats.vercel.app/api?username=Chu-Kin&theme=vue-dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chu-Kin&layout=compact&theme=vue-dark)
 
 
 
